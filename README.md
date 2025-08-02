@@ -34,3 +34,7 @@ Open `index.html` in any browser. All styling and assets are self-contained. The
 
 Details are in the Contact section — email, phone, and socials. Feel free to reach out.
 
+## Live Website
+
+Check out the live version here: [https://dashing-syrniki-b87968.netlify.app/](https://dashing-syrniki-b87968.netlify.app/)
+
