@@ -351,10 +351,11 @@ a {
 }
 
 .contact-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: var(--space-3xl);
-    align-items: start;
 }
 
 .contact-info {
